@@ -1,0 +1,7 @@
+{
+  "dns_mode": "DoH",
+  "firewall_enabled": true,
+  "background_mode": true,
+  "auto_sync": true,
+  "panel_auth": true
+}
