@@ -1,0 +1,7 @@
+{
+  "app_name": "UX Firewall",
+  "package_name": "com.uxofficial",
+  "filter_repo": "https://github.com/alihamza2462378654-cmd/ux-firewall-filters",
+  "auto_update": true,
+  "filter_version": "1.0.0"
+}
