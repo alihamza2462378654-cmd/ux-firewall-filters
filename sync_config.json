@@ -1,0 +1,7 @@
+{
+  "github_sync": true,
+  "check_updates_on_startup": true,
+  "auto_download_filters": true,
+  "offline_editing": false,
+  "cache_filters": true
+}
