@@ -1,0 +1,7 @@
+{
+  "panel_url": "https://ux.api-panel.top/api/connect",
+  "app_name": "UXFirewall",
+  "remember_login": true,
+  "device_binding": true,
+  "key_only_login": true
+}
